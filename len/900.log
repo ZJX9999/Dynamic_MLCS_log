@@ -1,0 +1,17 @@
+[0] Please input increased Length(Enter 0 to exit): 内存消耗: 2254.8 MB
+miss point num: 1596189
+GHT point num: 9573459
+Delete num: 9573459
+lcs length : 106
+time(sec) : 26.7005
+total time(sec) : 26.7005
+
+[1] Please input increased Length(Enter 0 to exit): 内存消耗: 47900.4 MB
+miss point num: 15268586
+GHT point num: 205280692
+Delete num: 205280692
+lcs length : 218
+time(sec) : 1461.72
+total time(sec) : 1488.42
+
+[2] Please input increased Length(Enter 0 to exit): 
